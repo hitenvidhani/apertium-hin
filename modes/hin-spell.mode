@@ -1,0 +1,1 @@
+hfst-ospell -S -n 10 '/home/hiten/Desktop/apertium-hin/hin.zhfst'
